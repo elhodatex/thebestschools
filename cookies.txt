@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.fireflybookstore.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	a1dc1789a3fc74f5027ac28de47e121dbdf515fc6d6510b079df130c435c85a1
+www.fireflybookstore.com	TRUE	/	FALSE	1999999999	viewPosts[limit]	6
+www.fireflybookstore.com	TRUE	/	FALSE	1999999999	fornax_anonymousId	08cf2638-37d3-4844-927c-7b53fe2dd596
+www.fireflybookstore.com	TRUE	/	FALSE	1999999999	athena_short_visit_id	84ff1b65-fe78-435d-aa50-d7bc8535e5e6:1672087832
+www.fireflybookstore.com	TRUE	/	FALSE	1999999999	Shopper-Pref	F65A69C0CE3F127D1E050D5524615F0B1EC7E16B-1672692669145-x%7B%22cur%22%3A%22USD%22%7D
+www.fireflybookstore.com	TRUE	/	FALSE	1999999999	lastVisitedCategory	12140
+www.fireflybookstore.com	TRUE	/	FALSE	1999999999	SHOP_SESSION_TOKEN	84b92a85-5c6d-4f86-86ec-ff4fa91d38c6
+www.fireflybookstore.com	TRUE	/	FALSE	1999999999	SameSite	None
+

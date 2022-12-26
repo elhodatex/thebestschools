@@ -1,0 +1,2 @@
+const trustpilot_trustbox_settings = {"trustboxes":[],"activeTrustbox":0,"pageUrls":{"landing":"https://www.fireflybookstore.com","category":"https://www.fireflybookstore.com/books/","product":"https://www.fireflybookstore.com/spock-messiah-star-trek/"}};
+dispatchEvent(new CustomEvent('trustpilotTrustboxSettingsLoaded'));
